@@ -11,7 +11,9 @@ nav {
 section {
 	width: 80%;
 }
-nav, section, header {
+nav,
+section,
+header {
 	margin: 10px;
 }
 /**************************************
